@@ -1,0 +1,24 @@
+@charset "UTF-8";
+
+body{
+    background-color: steelblue;
+    color: tomato;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1{
+    font-size: xx-large;
+}
+
+h2{
+    font-size: x-large;
+}
+
+p{
+    color: black;
+    font-size: larger;
+}
+li{
+    color: black;
+    font-size: larger;
+}
