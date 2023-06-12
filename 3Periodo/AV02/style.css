@@ -59,6 +59,49 @@ nav {
     background-color: #c45236;
 }
 
+#carrinho {
+    position: fixed;
+    top: 0;
+    right: 0;
+    
+
+    background-color: #FC6B0F;
+
+    width: 80px;
+    height: 80px;
+
+    margin: 10px;
+    padding: 15px;
+    border-radius: 50%;
+}
+
+#carrinho img {
+    position: absolute;
+    right: 35px;
+}
+
+#precoTotal {
+    position: absolute;
+    top: 60%;
+    right: 0;
+    width: 100%;
+    text-align: center;
+
+    color: white;
+
+    font-family: 'Poppins', sans-serif;
+}
+
+#quantidade {
+    position: absolute;
+    top: 10%;
+    right: 22px;
+
+    color: white;
+
+    font-family: 'Poppins', sans-serif;
+}
+
 section {
     margin-left: 250px;
     margin-right: 250px;
@@ -120,10 +163,6 @@ p.preco_produto {
     font-size: 1.25em;
     font-family: 'Poppins', sans-serif;
 }
-
-/* img {
-    max-width: 100%;
-} */
 
 footer {
     color: white;
